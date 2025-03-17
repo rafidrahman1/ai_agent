@@ -1,0 +1,14 @@
+{
+  "name": "ai_agent",
+  "version": "1.0.0",
+  "description": "ai_agent implementation",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/rafidrahman1/ai_agent.git",
+  "author": "rafidrahman1 <rafid0001@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.87.3"
+  }
+}
