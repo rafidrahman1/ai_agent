@@ -1,4 +1,4 @@
-import openai from "../config/openaiClient.js";
+import openai from "../config/openaiClient.ts";
 import SYSTEM_PROMPT from "../config/systemPrompt.js";
 
 /**
